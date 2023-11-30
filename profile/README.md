@@ -1,12 +1,9 @@
-## Hi there 👋
+## 👋 Hey there, welcome to the CraftCord Github Page!
 
-<!--
+We specialize in developing discord bots using public API.
 
-**Here are some ideas to get you started:**
+Our goal is to provide a high-end navigation and exposure of API's to Discord users.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We have Developed bots like [Pika Stats](https://discord.com/oauth2/authorize?client_id=1092991302712438807&scope=bot&permissions=8) and [Jartex Stats](https://discord.com/api/oauth2/authorize?client_id=1086628134100676628&scope=bot&permissions=8) and we plan on developing more!
+
+To suggest other bots we should develop you can join our [Discord Support Server](https://discord.gg/kJ7qmp8qsh) and contact one of the developers.
