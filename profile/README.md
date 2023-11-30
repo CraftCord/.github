@@ -1,4 +1,4 @@
-## 👋 Hey there, welcome to the CraftCord Github Page!
+## 👋 Welcome to the CraftCord Github Page!
 
 We specialize in developing discord bots using public API.
 
